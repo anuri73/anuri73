@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Sberbank
+- 🔭 I’m currently working on Sberbank as Big Data Engineer
 - 🌱 I’m currently learning Scala and Spark
 - 👯 I’m looking to collaborate on Scala projects
 - 🤔 I’m looking for help with Scala and functional programming
