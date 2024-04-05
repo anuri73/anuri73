@@ -8,6 +8,6 @@
 - 👯 I’m looking to collaborate on Scala projects
 - 🤔 I’m looking for help with Scala and functional programming
 - 💬 Ask me about Scala and Spark
-- 📫 How to reach me: [Mr. Urmat Zhenaliev](mailto:urmat.zhenaliev@gmail.com?subject=[GitHub] anuri73)
+- 📫 How to reach me: [Urmat Zhenaliev](mailto:urmat.zhenaliev@gmail.com?subject=[Github])
 - 😄 Pronouns: Urmat Jenaliev
 - ⚡ Fun fact: Octopuses have three hearts.
